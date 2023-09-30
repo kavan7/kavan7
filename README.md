@@ -7,7 +7,6 @@
 
 - 👨‍💻Check out my porfolio at kavanabeyratne.com!
 
-- 📫 How to reach me **abeyratnekavan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
