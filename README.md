@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CS50AI**
 
-- 👨‍💻 All of my projects are available at <a href='kavanabeyratne.com' target="_blank" >kavanabeyratne.com</a>
+- 👨‍💻 All of my projects are available at <a href='https://kavanabeyratne.com' target="_blank" >kavanabeyratne.com</a>
 
 - 📫 How to reach me **abeyratnekavan@gmail.com**
 
