@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavan</h1>
 <h3 align="center">A grade 11 student eager to quench my thirst for knowledge</h3>
 
-- 🔭 I’m currently working on **Braindle**
+- 🔭 I’m currently working on **Neuread**
 
 - 🌱 I’m currently learning **CS50AI**
 
