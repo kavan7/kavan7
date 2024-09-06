@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kavan</h1>
-<h3 align="center">A grade 11 student interested in the field of law</h3>
+<h3 align="center">A grade 12 student interested in the field of computer science and law</h3>
 
-- 🔭 I’m currently working on **Neuread**
+- 🔭 I’m currently working on **Vreal Authentication**
 
-- 🌱 I’m currently learning **CS50AI**
+- 🌱 I’m currently learning **CS50L**
 
-- 👨‍💻Check out my porfolio at kavanabeyratne.com!
+- 👨‍💻Check out my porfolio at imkavan.vercel.app!
 
 
 <h3 align="left">Connect with me:</h3>
