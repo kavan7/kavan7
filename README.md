@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CS50L**
 
-- 👨‍💻Check out my porfolio at imkavan.vercel.app!
+- 👨‍💻Check out my porfolio at kavan.lol!
 
 
 <h3 align="left">Connect with me:</h3>
