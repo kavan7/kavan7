@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CS50L**
 
-- 👨‍💻Check out my porfolio at kavan.lol!
+- 👨‍💻Check out my porfolio at kavanabeyratne.com!
 
 
 <h3 align="left">Connect with me:</h3>
