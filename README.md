@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavan</h1>
-<h3 align="center">A grade 12 student interested in the field of computer science and law</h3>
-
-- 🔭 I’m currently working on **Vreal Authentication**
-
-- 🌱 I’m currently learning **CS50L**
+<h3 align="center">A university student interested in the field of business, computer science and law</h3>
 
 - 👨‍💻Check out my porfolio at kavanabeyratne.com!
 
